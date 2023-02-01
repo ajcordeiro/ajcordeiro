@@ -53,7 +53,7 @@ Procuro aplicar boas práticas de acessibilidade e semântica nos projetos.
 ## <b>Conhecimento / Linguagens e Ferramentas</b>:
 <div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
 
-  ![HTML](img/html.svg) &nbsp;
+  ![HTML](./img/html.svg) &nbsp;
   ![CSS](./img/css.svg) &nbsp;
   ![SASS](./img/sass.svg) &nbsp;
   ![Bootstrap](./img/bootstrap.svg) &nbsp;
