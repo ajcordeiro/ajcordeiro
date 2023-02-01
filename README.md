@@ -15,11 +15,11 @@ VSCode.<br>
 
 <br><br>
 
-## <b>Cursos e Projetos</b>
+## <b>Cursos</b>
 <table>
   <thead>
     <tr>
-      <th>Curso / Projetos</th>
+      <th>Cursos</th>
       <th>Descrição</th>
       <th>Ver mais</th>
     </tr>
