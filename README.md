@@ -66,33 +66,23 @@ VSCode.<br>
         <b>[Origamid](https://www.origamid.com)</b><br>
       </td>
     </tr>
-    
-   
   </tbody>
 </table>
 <br><br><br>
-
-
-
-
 
 ## <b>Conhecimento / Linguagens e Ferramentas</b>:
 <div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
 
   ![HTML](./img/html.svg) &nbsp;
   ![CSS](./img/css.svg) &nbsp;
-  ![SASS](./img/sass.svg) &nbsp;
   ![Bootstrap](./img/bootstrap.svg) &nbsp;
   ![JS](./img/js.svg) &nbsp;
-  ![Jquery](./img/jquery.svg) &nbsp;
   ![Git](./img/git.svg) &nbsp;
   ![Github](./img/github.svg) &nbsp;
   ![MySQL](./img/mysql.svg) &nbsp;
-  ![Terminal](./img/terminal.svg) &nbsp;
   ![VSCode](./img/vscode.svg) &nbsp;
-  ![Figma](./img/figma.svg) &nbsp;
-  ![AdobeXD](./img/xd.svg) &nbsp;
-
+  ![VStudio](./img/Visual_Studio_Logo.svg) &nbsp;
+  
 </div>
 <br><br><br>
 
