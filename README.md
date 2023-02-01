@@ -8,16 +8,12 @@
 ### Back End - Conhecimentos:<br>
 C# | SQL 
 ### Ferramentas:
-Git | Github | VisualStudio
+Git | Github | VStudio.<br>
 
-Procuro aplicar boas práticas de acessibilidade e semântica nos projetos.
-
-<p><b>
-
-  _Quanto mais suar no treino, menos sangrará no campo de batalha!_
-</p></b>
-<br><br><br>
-
+### Front End - Conhecimentos:<br>
+JavaScript | Html 5 | Css 3 | Bootstrap 5.<br>
+### Ferramentas:
+VSCode.<br>
 
 ## <b>Cursos e Projetos</b>
 <table>
@@ -32,16 +28,41 @@ Procuro aplicar boas práticas de acessibilidade e semântica nos projetos.
   <tbody>
     <tr>
       <td>
-
+        
+        ![Balta.io](./img/balta-logo.svg)
+      </td>
+      <td>
+        <b>[Balta.io](https://balta.io/cursos/fundamentos-csharp)</b><br>
+        Curso de Fundamentos do C#.
+      </td>
+      <td>
+        <b>[Balta.io](https://balta.io/cursos/fundamentos-csharp)</b><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        
+![Alura](./img/logo-alura.svg)
+      </td>
+      <td>
+        <b>[Alura](https://www.alura.com.br/)</b><br>
+        Curso de C# e Orientação a Objetos.
+      </td>
+      <td>
+        <b>[Alura](https://www.alura.com.br/)</b><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
 
 ![Origamid](./img/origamid.svg)
       </td>
       <td>
-        <b>[Origamid](https://github.com/ajcordeiro/courses/tree/develop/origamid)</b><br>
-        Curso de Front-end e Web Design.
+        <b>[Origamid](https://www.origamid.com)</b><br>
+        Curso de Front End.
       </td>
       <td>
-        <b>[Origamid](https://github.com/ajcordeiro/courses/tree/develop/origamid)</b><br>
+        <b>[Origamid](https://www.origamid.com/)</b><br>
       </td>
     </tr>
     
