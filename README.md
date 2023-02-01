@@ -37,38 +37,14 @@ Procuro aplicar boas práticas de acessibilidade e semântica nos projetos.
 ![Origamid](./img/origamid.svg)
       </td>
       <td>
-        <b>[Origamid](https://github.com/DiogoRealles/courses/tree/develop/origamid)</b><br>
+        <b>[Origamid](https://github.com/ajcordeiro/courses/tree/develop/origamid)</b><br>
         Curso de Front-end e Web Design.
       </td>
       <td>
-        <b>[Origamid](https://github.com/DiogoRealles/courses/tree/develop/origamid)</b><br>
+        <b>[Origamid](https://github.com/ajcordeiro/courses/tree/develop/origamid)</b><br>
       </td>
     </tr>
-    <tr>
-      <td>
-
-![Matheus Battisti](https://raw.githubusercontent.com/DiogoRealles/diogorealles/develop/img/hdc.svg)
-      </td>
-      <td>
-        <b>[Matheus Battisti](https://github.com/DiogoRealles/courses/tree/develop/hora-de-codar)</b><br>
-        Capacitar quem deseja ser desenvolvedor/programador para o mercado de trabalho.
-      </td>
-      <td>
-        <b>[Matheus Battisti](https://github.com/DiogoRealles/courses/tree/develop/hora-de-codar)</b><br>
-      </td>
-    </tr>
-    <tr>
-      <td>
-![Projects](./img/projects.svg)
-      </td>
-      <td>
-        <b>[Projetos](https://github.com/DiogoRealles/courses/tree/develop/projects)</b><br>
-        Meus projetos pessoais, redesign de layouts.
-      </td>
-      <td>
-        <b>[Projetos](https://github.com/DiogoRealles/courses/tree/develop/projects)</b><br>
-      </td>
-    </tr>
+    
   </tbody>
 </table>
 <br><br><br>
@@ -77,7 +53,7 @@ Procuro aplicar boas práticas de acessibilidade e semântica nos projetos.
 ## <b>Conhecimento / Linguagens e Ferramentas</b>:
 <div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
 
-  ![HTML](./img/html.svg) &nbsp;
+  ![HTML](img/html.svg) &nbsp;
   ![CSS](./img/css.svg) &nbsp;
   ![SASS](./img/sass.svg) &nbsp;
   ![Bootstrap](./img/bootstrap.svg) &nbsp;
