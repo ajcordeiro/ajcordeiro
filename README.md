@@ -2,7 +2,7 @@
 ### <b>Desenvolvedor Back End JR</b></b>
 <br>
 
-<font-size = 15px> Sobre mim</font>
+<font-size=15px> Sobre mim</font>
 
 ### Back End - Conhecimentos:<br>
 C# | SQL.<br> 
