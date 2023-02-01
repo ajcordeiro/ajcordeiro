@@ -1,6 +1,6 @@
 # <b>[Jaqueson Alves 🡽](linkedin.com/in/ajcordeiro)</b>
 ### <b>Desenvolvedor Back End JR</b></b>
-<br><br>
+<br>
 
 ## <b>Sobre mim</b>
 ### Back End - Conhecimentos:<br>
