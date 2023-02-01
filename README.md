@@ -67,18 +67,7 @@ VSCode.<br>
       </td>
     </tr>
     
-    <tr>
-      <td>
-![Projects](./img/projects.svg)
-      </td>
-      <td>
-        <b>[Projetos](https://github.com/DiogoRealles/courses/tree/develop/projects)</b><br>
-        Meus projetos pessoais, redesign de layouts.
-      </td>
-      <td>
-        <b>[Projetos](https://github.com/DiogoRealles/courses/tree/develop/projects)</b><br>
-      </td>
-    </tr>
+   
   </tbody>
 </table>
 <br><br><br>
