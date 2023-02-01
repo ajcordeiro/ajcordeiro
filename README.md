@@ -78,8 +78,6 @@ VSCode.<br>
   ![Bootstrap](./img/bootstrap.svg) &nbsp;
   ![JS](./img/js.svg) &nbsp;
   ![Git](./img/git.svg) &nbsp;
-  ![Github](./img/github.svg) &nbsp;
-  ![MySQL](./img/mysql.svg) &nbsp;
   ![VSCode](./img/vscode.svg) &nbsp;
   
 </div>
