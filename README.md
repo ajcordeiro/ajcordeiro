@@ -2,7 +2,7 @@
 ### <b>Desenvolvedor Back End JR</b></b>
 <br>
 
-##<b>Sobre mim</b>
+## <b>Sobre mim</b>
 
 ### Back End - Conhecimentos:<br>
 C# | SQL.<br> 
