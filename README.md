@@ -99,9 +99,9 @@ Procuro aplicar boas práticas de acessibilidade e semântica nos projetos.
 
 |           Hospedagem          |                             Projetos                         |
 |                -              |                              -                               |
-| ![Codepen](./img/codepen.svg) | <b>[Codepen 🡽](https://codepen.io/SoftwaRealles)      </b>  |
-| ![Replit](./img/replit.svg)   | <b>[Replit 🡽](https://replit.com/@softwarealles/)     </b>  |
-| ![Behance](./img/behance.svg) | <b>[Behance 🡽](https://www.behance.net/softwarealles/)</b>  |
+| ![Codepen](img/codepen.svg) | <b>[Codepen 🡽](https://codepen.io/SoftwaRealles)      </b>  |
+| ![Replit](img/replit.svg)   | <b>[Replit 🡽](https://replit.com/@softwarealles/)     </b>  |
+| ![Behance](img/behance.svg) | <b>[Behance 🡽](https://www.behance.net/softwarealles/)</b>  |
 <br><br><br>
 
 
@@ -112,7 +112,6 @@ Procuro aplicar boas práticas de acessibilidade e semântica nos projetos.
 
   <a href="mailto: jaquesonalves@hotmail.com"><img src="https://img.shields.io/badge/Email-jaquesonalves@hotmail.com-lightgrey?style=for-the-badge&logo=Gmail&logoColor=white"></a> &nbsp;
   <a href="https://www.linkedin.com/in/ajcordeiro/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-ajcordeiro-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a> &nbsp;
-  <a href="https://www.realles.tk" target="_blank"><img src="https://img.shields.io/badge/SITE-www.realles.tk-black?style=for-the-badge"></a> &nbsp;
-
+  
 </div>
 <br><br><br>
