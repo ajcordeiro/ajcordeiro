@@ -5,12 +5,12 @@
 ## <b>Sobre mim</b>
 ### Back End - Conhecimentos:<br>
 C# | SQL 
-### Ferramentas:
+Ferramentas:
 Git | Github | VStudio.<br>
 
 ### Front End - Conhecimentos:<br>
 JavaScript | Html 5 | Css 3 | Bootstrap 5.<br>
-### Ferramentas:
+Ferramentas:
 VSCode.<br>
 
 <br>
