@@ -2,8 +2,6 @@
 ### <b>Desenvolvedor Back End JR</b></b>
 <br><br><br>
 
-<img src="./img/languages-2.svg" min-width="300" max-width="300" width="300" align="right" alt="badges languages">
-
 ## <b>Sobre mim</b>
 ### Back End - Conhecimentos:<br>
 C# | SQL 
