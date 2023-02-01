@@ -81,7 +81,7 @@ VSCode.<br>
   ![Github](./img/github.svg) &nbsp;
   ![MySQL](./img/mysql.svg) &nbsp;
   ![VSCode](./img/vscode.svg) &nbsp;
-  ![VStudio](./img/Visual_Studio_Logo.svg) &nbsp;
+  ![VStudio](./img/VStudio-Logo.svg) &nbsp;
   
 </div>
 <br><br><br>
