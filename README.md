@@ -2,7 +2,7 @@
 ### <b>Desenvolvedor Back End JR</b></b>
 <br><br><br>
 
-<img src="./img/languages-2.svg" min-width="400" max-width="400" width="400" align="right" alt="badges languages">
+<img src="./img/languages-2.svg" min-width="300" max-width="300" width="300" align="right" alt="badges languages">
 
 ## <b>Sobre mim</b>
 ### Back End - Conhecimentos:<br>
@@ -48,7 +48,7 @@ VSCode.<br>
       </td>
       <td>
         <b>[Alura](https://www.alura.com.br)</b><br>
-        Curso de C# e Orientação a Objetos.
+        Formação C# e Orientação a Objetos.
       </td>
       <td>
         <b>[Alura](https://www.alura.com.br)</b><br>
