@@ -79,7 +79,8 @@ VSCode.<br>
   ![JS](./img/js.svg) &nbsp;
   ![Git](./img/git.svg) &nbsp;
   ![VSCode](./img/vscode.svg) &nbsp;
-  <img src="./img/VStudio-Logo.svg" min-width="200" max-width="200" width="200">
+  ![VStudio](./img/VStudio-logo.png) &nbsp;
+ 
   
   
 </div>
