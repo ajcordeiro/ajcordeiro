@@ -87,7 +87,7 @@ VSCode.<br>
 ## <b>Estou Estudando:</b>
 <div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
 
-  ![NodeJS](./img/nodejs.svg) &nbsp;
+  
   ![ReactJS](./img/reactjs.svg) &nbsp;
   ![TS](./img/ts.svg) &nbsp;
   ![Terminal](./img/terminal.svg) &nbsp;
@@ -99,8 +99,10 @@ VSCode.<br>
 ## <b>Tenho Interesse: </b>
 <div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
 
+  ![NodeJS](./img/nodejs.svg) &nbsp;
   ![ReactJS](./img/reactjs.svg) &nbsp;
   ![VueJS](./img/vuejs.svg) &nbsp;
+  ![TS](./img/ts.svg) &nbsp;
   ![Docker](./img/docker.svg) &nbsp;
 
 </div>
