@@ -4,7 +4,7 @@
 
 ## <b>Sobre mim</b>
 ### Back End - Conhecimentos:<br>
-C# | SQL 
+C# | SQL.<br> 
 Ferramentas:
 Git | Github | VStudio.<br>
 
