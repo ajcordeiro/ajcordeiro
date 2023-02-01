@@ -1,5 +1,5 @@
-# <b>[Jaqueson Alves 🡽](linkedin.com/in/ajcordeiro)</b>
-### <b>Desenvolvedor Back End JR</b></b>
+# <b>[Jaqueson Alves](linkedin.com/in/ajcordeiro)</b> ### <b>Desenvolvedor Back End JR</b></b>
+
 <br>
 
 ### Back End - Conhecimentos:<br>
