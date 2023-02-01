@@ -103,7 +103,7 @@ VSCode.<br>
 </div>
 <br>
 
-## <b>Contate-me</b>
+## <b>Contato</b>
 <div>
 
   <a href="https://web.whatsapp.com/send?phone=+5511954358681&text=Olá%20como%20%20posso%20ajudar?%20" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-(11)95435--8681-%33920f/?style=for-the-badge&logo=whatsapp&logoColor=success"></a> &nbsp;
