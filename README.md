@@ -104,6 +104,7 @@ VSCode.<br>
   ![VueJS](./img/vuejs.svg) &nbsp;
   ![TS](./img/ts.svg) &nbsp;
   ![Docker](./img/docker.svg) &nbsp;
+  ![Figma](./img/figma.svg) &nbsp;
 
 </div>
 <br><br><br>
