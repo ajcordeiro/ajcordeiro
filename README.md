@@ -1,7 +1,5 @@
 # <b>[Jaqueson Alves](linkedin.com/in/ajcordeiro)</b> 
-Desenvolvedor Back End JR
-
-<br>
+<b> Desenvolvedor Back End JR </b>
 
 ### Back End - Conhecimentos:<br>
 C# | SQL.<br> 
