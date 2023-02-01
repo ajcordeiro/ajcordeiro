@@ -78,10 +78,7 @@ VSCode.<br>
   ![Bootstrap](./img/bootstrap.svg) &nbsp;
   ![JS](./img/js.svg) &nbsp;
   ![Git](./img/git.svg) &nbsp;
-  ![VSCode](./img/vscode.svg) &nbsp;
-  ![VStudio](./img/VStudio-logo.svg) &nbsp;
- 
-  
+  ![VSCode](./img/vscode.svg) &nbsp;  
   
 </div>
 <br><br><br>
