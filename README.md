@@ -108,10 +108,10 @@ Procuro aplicar boas práticas de acessibilidade e semântica nos projetos.
 ## <b>Contate-me</b>
 <div>
 
-  <a href="https://web.whatsapp.com/send?phone=+5511987868046&text=Olá%20como%20%20posso%20ajudar?%20" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-(11)98786--8046-%33920f/?style=for-the-badge&logo=whatsapp&logoColor=success"></a> &nbsp;
-  <a href="https://www.facebook.com/softwarealles" target="_blank"><img src="https://img.shields.io/badge/Facebook-/Diogo Realles-%230077B5?style=for-the-badge&logo=facebook&logoColor=international"></a> &nbsp;
-  <a href="mailto: diogorealles@hotmail.com"><img src="https://img.shields.io/badge/Email-diogorealles@hotmail.com-lightgrey?style=for-the-badge&logo=Gmail&logoColor=white"></a> &nbsp;
-  <a href="https://www.linkedin.com/in/diogorealles/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-diogorealles-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a> &nbsp;
+  <a href="https://web.whatsapp.com/send?phone=+5511954358681&text=Olá%20como%20%20posso%20ajudar?%20" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-(11)95435--8681-%33920f/?style=for-the-badge&logo=whatsapp&logoColor=success"></a> &nbsp;
+ --> <a href="https://www.facebook.com/softwarealles" target="_blank"><img src="https://img.shields.io/badge/Facebook-/Diogo Realles-%230077B5?style=for-the-badge&logo=facebook&logoColor=international"></a> &nbsp;
+  <a href="mailto: diogorealles@hotmail.com"><img src="https://img.shields.io/badge/Email-diogorealles@hotmail.com-lightgrey?style=for-the-badge&logo=Gmail&logoColor=white"></a> &nbsp;<--
+  <a href="https://www.linkedin.com/in/ajcordeiro/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-diogorealles-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a> &nbsp;
   <a href="https://www.realles.tk" target="_blank"><img src="https://img.shields.io/badge/SITE-www.realles.tk-black?style=for-the-badge"></a> &nbsp;
 
 </div>
