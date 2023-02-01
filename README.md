@@ -90,7 +90,6 @@ VSCode.<br>
   
   ![ReactJS](./img/reactjs.svg) &nbsp;
   ![TS](./img/ts.svg) &nbsp;
-  ![Terminal](./img/terminal.svg) &nbsp;
 
 </div>
 <br><br><br>
