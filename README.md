@@ -34,50 +34,39 @@ VSCode.<br>
 ![Balta.io](./img/balta-logo.svg)
       </td>
       <td>
-        <b>[B7Web](https://github.com/DiogoRealles/course-projects)</b><br>
-        Curso de Front-end e Web Design.
+        <b>[Balta.io](https://balta.io/cursos/fundamentos-csharp)</b><br>
+        Curso de Fundamentos do C#.
       </td>
       <td>
-        <b>[B7Web](https://github.com/DiogoRealles/course-projects)</b><br>
+        <b>[Balta.io](https://balta.io/cursos/fundamentos-csharp)</b><br>
       </td>
     </tr>
     <tr>
       <td>
 
+![Alura](./img/logo-alura.svg)
+      </td>
+      <td>
+        <b>[Alura](https://www.alura.com.br)</b><br>
+        Curso de C# e Orientação a Objetos.
+      </td>
+      <td>
+        <b>[Alura](https://www.alura.com.br)</b><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
 ![Origamid](./img/origamid.svg)
       </td>
       <td>
-        <b>[Origamid](https://github.com/DiogoRealles/courses/tree/develop/origamid)</b><br>
-        Curso de Front-end e Web Design.
+        <b>[Origamid](https://www.origamid.com)</b><br>
+        Curso de Front End.
       </td>
       <td>
-        <b>[Origamid](https://github.com/DiogoRealles/courses/tree/develop/origamid)</b><br>
+        <b>[Origamid](https://www.origamid.com)</b><br>
       </td>
     </tr>
-    <tr>
-      <td>
-![Rocketseat](./img/rocketseat-origim.svg)
-      </td>
-      <td>
-        <b>[Rocketseat](https://github.com/DiogoRealles/courses/tree/develop/rocketseat)</b><br>
-        Plataforma completa de aprendizado contínuo em programação.
-      </td>
-      <td>
-        <b>[Rocketseat](https://github.com/DiogoRealles/courses/tree/develop/rocketseat)</b><br>
-      </td>
-    </tr>
-    <tr>
-      <td>
-![Matheus Battisti](https://raw.githubusercontent.com/DiogoRealles/diogorealles/develop/img/hdc.svg)
-      </td>
-      <td>
-        <b>[Matheus Battisti](https://github.com/DiogoRealles/courses/tree/develop/hora-de-codar)</b><br>
-        Capacitar quem deseja ser desenvolvedor/programador para o mercado de trabalho.
-      </td>
-      <td>
-        <b>[Matheus Battisti](https://github.com/DiogoRealles/courses/tree/develop/hora-de-codar)</b><br>
-      </td>
-    </tr>
+    
     <tr>
       <td>
 ![Projects](./img/projects.svg)
