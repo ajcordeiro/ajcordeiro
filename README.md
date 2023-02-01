@@ -109,18 +109,6 @@ VSCode.<br>
 </div>
 <br><br><br>
 
-
-## <b>Laboratório de Testes</b>
-<p>Aqui é aonde faço meus experimentos e afio minhas skills</p>
-
-|           Hospedagem          |                             Projetos                         |
-|                -              |                              -                               |
-| ![Codepen](img/codepen.svg) | <b>[Codepen 🡽](https://codepen.io/SoftwaRealles)      </b>  |
-| ![Replit](img/replit.svg)   | <b>[Replit 🡽](https://replit.com/@softwarealles/)     </b>  |
-| ![Behance](img/behance.svg) | <b>[Behance 🡽](https://www.behance.net/softwarealles/)</b>  |
-<br><br><br>
-
-
 ## <b>Contate-me</b>
 <div>
 
