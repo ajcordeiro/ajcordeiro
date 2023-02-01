@@ -13,7 +13,7 @@ JavaScript | Html 5 | Css 3 | Bootstrap 5.<br>
 ### Ferramentas:
 VSCode.<br>
 
-<br><br>
+<br>
 
 ## <b>Cursos</b>
 <table>
@@ -66,7 +66,7 @@ VSCode.<br>
     </tr>
   </tbody>
 </table>
-<br><br>
+<br>
 
 ## <b>Conhecimentos</b>:
 <div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
@@ -78,7 +78,7 @@ VSCode.<br>
   ![Git](./img/git.svg) &nbsp;
   ![VSCode](./img/vscode.svg) &nbsp;  
 </div>
-<br><br>
+<br>
 
 ## <b>Estudando:</b>
 <div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
@@ -87,7 +87,7 @@ VSCode.<br>
   ![TS](./img/ts.svg) &nbsp;
 
 </div>
-<br><br>
+<br>
 
 ## <b>Interesse: </b>
 <div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
@@ -101,7 +101,7 @@ VSCode.<br>
   ![Sass](./img/sass.svg) &nbsp;
 
 </div>
-<br><br>
+<br>
 
 ## <b>Contate-me</b>
 <div>
@@ -113,4 +113,4 @@ VSCode.<br>
   <a href="https://www.linkedin.com/in/ajcordeiro/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-ajcordeiro-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a> &nbsp;
   
 </div>
-<br><br>
+<br>
