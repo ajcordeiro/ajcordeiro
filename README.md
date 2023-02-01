@@ -31,7 +31,7 @@ VSCode.<br>
     <tr>
       <td>
 
-![B7Web](./img/b7web.svg)
+![Balta.io](./img/balta-logo.svg)
       </td>
       <td>
         <b>[B7Web](https://github.com/DiogoRealles/course-projects)</b><br>
@@ -95,60 +95,7 @@ VSCode.<br>
 <br><br><br>
 
 
-## <b>Cursos e Projetos</b>
-<table>
-  <thead>
-    <tr>
-      <th>Curso / Projetos</th>
-      <th>Descrição</th>
-      <th>Ver mais</th>
-    </tr>
-  </thead>
 
-  <tbody>
-    <tr>
-      <td>
-        
-        ![Balta.io](./img/balta-logo.svg)
-      </td>
-      <td>
-        <b>[Balta.io](https://balta.io/cursos/fundamentos-csharp)</b><br>
-        Curso de Fundamentos do C#.
-      </td>
-      <td>
-        <b>[Balta.io](https://balta.io/cursos/fundamentos-csharp)</b><br>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        
-![Alura](./img/logo-alura.svg)
-      </td>
-      <td>
-        <b>[Alura](https://www.alura.com.br/)</b><br>
-        Curso de C# e Orientação a Objetos.
-      </td>
-      <td>
-        <b>[Alura](https://www.alura.com.br/)</b><br>
-      </td>
-    </tr>
-    <tr>
-      <td>
-
-![Origamid](./img/origamid.svg)
-      </td>
-      <td>
-        <b>[Origamid](https://www.origamid.com)</b><br>
-        Curso de Front End.
-      </td>
-      <td>
-        <b>[Origamid](https://www.origamid.com/)</b><br>
-      </td>
-    </tr>
-    
-  </tbody>
-</table>
-<br><br><br>
 
 
 ## <b>Conhecimento / Linguagens e Ferramentas</b>:
