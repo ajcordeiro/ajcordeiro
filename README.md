@@ -1,4 +1,4 @@
-# <b>[Jaqueson Alves](linkedin.com/in/ajcordeiro) <b>Desenvolvedor Back End JR</b></b>
+# <b>[Jaqueson Alves](linkedin.com/in/ajcordeiro)</b> Desenvolvedor Back End JR
 
 <br>
 
