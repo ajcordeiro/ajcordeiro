@@ -68,7 +68,7 @@ VSCode.<br>
 </table>
 <br><br>
 
-## <b>Conhecimento / Linguagens e Ferramentas</b>:
+## <b>Conhecimentos</b>:
 <div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
 
   ![HTML](./img/html.svg) &nbsp;
