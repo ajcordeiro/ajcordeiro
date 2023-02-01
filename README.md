@@ -79,7 +79,7 @@ VSCode.<br>
   ![JS](./img/js.svg) &nbsp;
   ![Git](./img/git.svg) &nbsp;
   ![VSCode](./img/vscode.svg) &nbsp;
-  ![VStudio](./img/VStudio-Logo.png) &nbsp;
+  ![VStudio](./img/VStudio-Logo.svg) &nbsp;
  
   
   
