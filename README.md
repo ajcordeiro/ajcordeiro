@@ -95,7 +95,6 @@ VSCode.<br>
 </div>
 <br><br><br>
 
-
 ## <b>Tenho Interesse: </b>
 <div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
 
@@ -105,6 +104,7 @@ VSCode.<br>
   ![TS](./img/ts.svg) &nbsp;
   ![Docker](./img/docker.svg) &nbsp;
   ![Figma](./img/figma.svg) &nbsp;
+  ![Sass](./img/sass.svg) &nbsp;
 
 </div>
 <br><br><br>
