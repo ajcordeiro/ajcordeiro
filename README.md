@@ -82,7 +82,7 @@ VSCode.<br>
 ## <b>Estudando:</b>
 <div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
 
-  ![ReactJS](./img/reactjs.svg) &nbsp;
+  ![CSharp](./img/c-sharp-logo.png) &nbsp;
   ![TS](./img/ts.svg) &nbsp;
 
 </div>
