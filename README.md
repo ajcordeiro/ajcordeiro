@@ -28,7 +28,7 @@ VSCode.<br>
     <tr>
       <td>
 
-![Balta.io](./img/balta-logo.svg)
+![Balta.io](./img/balta.svg)
       </td>
       <td>
         <b>[Balta.io](https://balta.io/cursos/fundamentos-csharp)</b><br>
@@ -41,7 +41,7 @@ VSCode.<br>
     <tr>
       <td>
 
-![Alura](./img/logo-alura.svg)
+![Alura](./img/alura.svg)
       </td>
       <td>
         <b>[Alura](https://www.alura.com.br)</b><br>
