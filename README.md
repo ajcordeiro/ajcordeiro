@@ -75,16 +75,16 @@ VSCode.<br>
   ![Bootstrap](./img/bootstrap.svg) &nbsp;
   ![JS](./img/js.svg) &nbsp;
   ![Git](./img/git.svg) &nbsp;
-  ![GitHub](./img/Github-Logo.svg) &nbsp;
+  ![GitHub](./img/Github.svg) &nbsp;
   ![VSCode](./img/vscode.svg) &nbsp;  
-  ![VStudio](./img/VStudio-Logo.svg) &nbsp;
+  ![VStudio](./img/VStudio.svg) &nbsp;
 </div>
 <br>
 
 ## <b>Estudando:</b>
 <div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
   
-  ![CSharp](./img/CSharp-Logo.svg) &nbsp; 
+  ![CSharp](./img/CSharp.svg) &nbsp; 
 
   
   
