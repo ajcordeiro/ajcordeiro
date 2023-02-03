@@ -77,6 +77,7 @@ VSCode.<br>
   ![Git](./img/git.svg) &nbsp;
   ![GitHub](./img/Github-Logo.svg) &nbsp;
   ![VSCode](./img/vscode.svg) &nbsp;  
+  ![VStudio](./img/VStudio-Logo.svg) &nbsp;
 </div>
 <br>
 
