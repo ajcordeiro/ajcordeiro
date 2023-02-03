@@ -72,8 +72,8 @@ VSCode.<br>
 
   ![HTML](./img/html.svg) &nbsp;
   ![CSS](./img/css.svg) &nbsp;
+  ![JS](./img/jscript.svg) &nbsp;
   ![Bootstrap](./img/bootstrap.svg) &nbsp;
-  ![JS](./img/js.svg) &nbsp;
   ![Git](./img/git.svg) &nbsp;
   ![GitHub](./img/Github.svg) &nbsp;
   ![VSCode](./img/vscode.svg) &nbsp;  
