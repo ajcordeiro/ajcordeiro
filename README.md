@@ -1,4 +1,4 @@
-![Jaqueson Alves](./img/Foto-Logo.png)
+![Jaqueson Alves](./img/Banner.png)
 # <b>[Jaqueson Alves](linkedin.com/in/ajcordeiro)</b> 
 <b> Desenvolvedor Back End JR </b>
 
