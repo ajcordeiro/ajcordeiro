@@ -109,8 +109,6 @@ VSCode.<br>
 ## <b>Contato</b>
 <div>
 
-  <a href="https://web.whatsapp.com/send?phone=+5511954358681&text=Olá%20como%20%20posso%20ajudar?%20" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-(11)95435--8681-%33920f/?style=for-the-badge&logo=whatsapp&logoColor=success"></a> &nbsp;
-
   <a href="mailto: jaquesonalves@hotmail.com"><img src="https://img.shields.io/badge/Email-jaquesonalves@hotmail.com-lightgrey?style=for-the-badge&logo=Gmail&logoColor=white"></a> &nbsp;
   
   <a href="https://www.linkedin.com/in/ajcordeiro/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-ajcordeiro-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a> &nbsp;
