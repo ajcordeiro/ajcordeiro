@@ -22,8 +22,6 @@ Git | Github |
     <tr>
       <th>Cursos</th>
       <th>Descrição</th>
-      <th>Ver mais</th>
-    </tr>
   </thead>
 
   <tbody>
