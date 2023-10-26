@@ -3,7 +3,7 @@
 <b> Desenvolvedor Back End JR </b>
 
 ### Back End - Conhecimentos:<br>
-C# | SQL.<br> 
+C# | SQL | MySql.<br> 
 IDE:
 VStudio.<br>
 
