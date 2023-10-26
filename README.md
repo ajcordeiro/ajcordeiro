@@ -1,4 +1,4 @@
-![Jaqueson Alves](./img/banner.png)
+![Jaqueson Alves](./img/Banner.png)
 # <b>[Jaqueson Alves](linkedin.com/in/ajcordeiro)</b> 
 <b> Desenvolvedor Back End JR </b>
 
@@ -72,7 +72,7 @@ VSCode.<br>
         Curso de Git e Git Hub.
       </td>
       <td>
-        <b>[Origamid](https://www.origamid.com)</b><br>
+        <b>[Dio.](https://web.dio.me/)</b><br>
       </td>
     </tr>
   </tbody>
