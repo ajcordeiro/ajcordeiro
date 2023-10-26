@@ -28,10 +28,7 @@ Git | Github |
       <td>
         ![Balta.io](./img/balta.svg)
       </td>
-      <td>
-        <b>[Balta.io](https://balta.io/cursos/fundamentos-csharp)</b><br>
-        Curso de Fundamentos do C#.
-      </td>
+      
     </tr>
   </tbody>
 </table>
