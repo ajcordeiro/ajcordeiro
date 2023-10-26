@@ -59,9 +59,7 @@ Git | Github |
       <td>
         <b>[Dio](https://www.dio.me/)</b><br>
         Curso de Git e ao GitHub.
-      </td>
-      
-    </tr>
+
   </tbody>
 </table>
 <br>
