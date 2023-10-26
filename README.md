@@ -67,14 +67,14 @@ Git | Github |
     </tr>
     <tr>
       <td>
-![Dio](./img/origamid.svg)
+![Dio](./img/Dio.svg)
       </td>
       <td>
-        <b>[Origamid](https://www.origamid.com)</b><br>
-        Curso de Front End.
+        <b>[Dio](https://www.dio.me/)</b><br>
+        Curso de Git e ao GitHub.
       </td>
       <td>
-        <b>[Origamid](https://www.origamid.com)</b><br>
+        <b>[Dio](https://www.dio.me/)</b><br>
       </td>
     </tr>
   </tbody>
