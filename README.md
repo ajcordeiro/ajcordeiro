@@ -49,9 +49,6 @@ Git | Github |
         <b>[Alura](https://www.alura.com.br)</b><br>
         Formação C# e Orientação a Objetos.
       </td>
-      <td>
-        <b>[Alura](https://www.alura.com.br)</b><br>
-      </td>
     </tr>
     <tr>
       <td>
