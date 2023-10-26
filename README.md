@@ -23,11 +23,9 @@ Git | Github |
       <th>Cursos</th>
       <th>Descrição</th>
   </thead>
-
   <tbody>
     <tr>
       <td>
-
 ![Balta.io](./img/balta.svg)
       </td>
       <td>
@@ -53,9 +51,7 @@ Git | Github |
         <b>[Origamid](https://www.origamid.com)</b><br>
         Curso de Front End.
       </td>
-      <td>
-        <b>[Origamid](https://www.origamid.com)</b><br>
-      </td>
+      
     </tr>
     <tr>
       <td>
@@ -65,9 +61,7 @@ Git | Github |
         <b>[Dio](https://www.dio.me/)</b><br>
         Curso de Git e ao GitHub.
       </td>
-      <td>
-        <b>[Dio](https://www.dio.me/)</b><br>
-      </td>
+      
     </tr>
   </tbody>
 </table>
