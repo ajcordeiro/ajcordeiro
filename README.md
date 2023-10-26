@@ -33,8 +33,7 @@ Git | Github |
         Curso de Fundamentos do C#.
       </td>
     </tr>
-    <tr>
-      <td>
+    
 
 ![Alura](./img/alura.svg)
       </td>
