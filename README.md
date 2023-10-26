@@ -3,14 +3,17 @@
 <b> Desenvolvedor Back End JR </b>
 
 ### Back End - Conhecimentos:<br>
-C# | SQL.<br> 
-Ferramentas:
-Git | Github | VStudio.<br>
+C# | SQL | MySql.<br> 
+IDE:
+VStudio.<br>
 
 ### Front End - Conhecimentos:<br>
 JavaScript | Html 5 | Css 3 | Bootstrap 5.<br>
-Ferramentas:
-VSCode.<br>
+IDE:
+VSCode. <br>
+
+### Vercionamento - Conhecimentos:<br>
+Git | Git Hub.<br>
 
 <br>
 
