@@ -36,9 +36,6 @@ Git | Github |
         <b>[Balta.io](https://balta.io/cursos/fundamentos-csharp)</b><br>
         Curso de Fundamentos do C#.
       </td>
-      <td>
-        <b>[Balta.io](https://balta.io/cursos/fundamentos-csharp)</b><br>
-      </td>
     </tr>
     <tr>
       <td>
