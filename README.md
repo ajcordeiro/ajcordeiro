@@ -65,6 +65,18 @@ Git | Github |
         <b>[Origamid](https://www.origamid.com)</b><br>
       </td>
     </tr>
+    <tr>
+      <td>
+![Dio](./img/origamid.svg)
+      </td>
+      <td>
+        <b>[Origamid](https://www.origamid.com)</b><br>
+        Curso de Front End.
+      </td>
+      <td>
+        <b>[Origamid](https://www.origamid.com)</b><br>
+      </td>
+    </tr>
   </tbody>
 </table>
 <br>
