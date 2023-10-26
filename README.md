@@ -4,14 +4,16 @@
 
 ### Back End - Conhecimentos:<br>
 C# | SQL.<br> 
-Ferramentas:
-Git | Github | VStudio.<br>
+IDE:
+VStudio.<br>
 
 ### Front End - Conhecimentos:<br>
-JavaScript | Html 5 | Css 3 | Bootstrap 5.<br>
-Ferramentas:
+JavaScript | Html 5 | Css 3 <br>
+IDE:
 VSCode.<br>
 
+### Versionamento - Conhecimentos:<br>
+Git | Github | 
 <br>
 
 ## <b>Cursos</b>
