@@ -1,4 +1,4 @@
-![Jaqueson Alves](./img/Foto-Logo.png)
+![Jaqueson Alves](./img/banner.png)
 # <b>[Jaqueson Alves](linkedin.com/in/ajcordeiro)</b> 
 <b> Desenvolvedor Back End JR </b>
 
@@ -31,7 +31,7 @@ VSCode.<br>
 ![Balta.io](./img/balta.svg)
       </td>
       <td>
-        <b>[Balta.io](https://balta.io/cursos/fundamentos-csharp)</b><br>
+        <b>Balta.io</b><br>
         Curso de Fundamentos do C#.
       </td>
       <td>
@@ -44,7 +44,7 @@ VSCode.<br>
 ![Alura](./img/alura.svg)
       </td>
       <td>
-        <b>[Alura](https://www.alura.com.br)</b><br>
+        <b>Alura</b><br>
         Formação C# e Orientação a Objetos.
       </td>
       <td>
@@ -56,8 +56,20 @@ VSCode.<br>
 ![Origamid](./img/origamid.svg)
       </td>
       <td>
-        <b>[Origamid](https://www.origamid.com)</b><br>
+        <b>Origamid</b><br>
         Curso de Front End.
+      </td>
+      <td>
+        <b>[Origamid](https://www.origamid.com)</b><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
+![Origamid](./img/Dio.svg)
+      </td>
+      <td>
+        <b>Dio.</b><br>
+        Curso de Git e Git Hub.
       </td>
       <td>
         <b>[Origamid](https://www.origamid.com)</b><br>
