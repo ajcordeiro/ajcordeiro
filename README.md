@@ -33,36 +33,7 @@ Git | Github |
         Curso de Fundamentos do C#.
       </td>
     </tr>
-    <tr>
-      <td>
-
-        ![Alura](./img/alura.svg)
-      </td>
-      <td>
-        <b>[Alura](https://www.alura.com.br)</b><br>
-        Formação C# e Orientação a Objetos.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        ![Origamid](./img/origamid.svg)
-      </td>
-      <td>
-        <b>[Origamid](https://www.origamid.com)</b><br>
-        Curso de Front End.
-      </td>
-
-    </tr>
-    <tr>
-      <td>
-        ![Dio](./img/Dio.svg)
-      </td>
-      <td>
-        <b>[Dio](https://www.dio.me/)</b><br>
-        Curso de Git e ao GitHub.
-      </td>
-
-    </tr>
+    
   </tbody>
 </table>
 <br>
