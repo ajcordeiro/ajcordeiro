@@ -28,7 +28,40 @@ Git | Github |
       <td>
         ![Balta.io](./img/balta.svg)
       </td>
-      
+      <td>
+        <b>[Balta.io](https://balta.io/cursos/fundamentos-csharp)</b><br>
+        Curso de Fundamentos do C#.
+      </td>
+    </tr>
+    <tr>
+      <td>
+
+        ![Alura](./img/alura.svg)
+      </td>
+      <td>
+        <b>[Alura](https://www.alura.com.br)</b><br>
+        Formação C# e Orientação a Objetos.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        ![Origamid](./img/origamid.svg)
+      </td>
+      <td>
+        <b>[Origamid](https://www.origamid.com)</b><br>
+        Curso de Front End.
+      </td>
+
+    </tr>
+    <tr>
+      <td>
+        ![Dio](./img/Dio.svg)
+      </td>
+      <td>
+        <b>[Dio](https://www.dio.me/)</b><br>
+        Curso de Git e ao GitHub.
+      </td>
+
     </tr>
   </tbody>
 </table>
