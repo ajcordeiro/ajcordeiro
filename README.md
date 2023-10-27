@@ -21,7 +21,7 @@ Git | Git Hub.<br>
 <table>
   <thead>
     <tr>
-      <th>Cursos</th>
+      <th>Instituições</th>
       <th>Descrição</th>
       <th>Ver mais</th>
     </tr>
@@ -34,7 +34,7 @@ Git | Git Hub.<br>
 ![Balta.io](./img/balta.svg)
       </td>
       <td>
-        <b>Balta.io</b><br>
+        <br>
         Curso de Fundamentos do C#.
       </td>
       <td>
@@ -47,7 +47,7 @@ Git | Git Hub.<br>
 ![Alura](./img/alura.svg)
       </td>
       <td>
-        <b>Alura</b><br>
+        <br>
         Formação C# e Orientação a Objetos.
       </td>
       <td>
@@ -59,7 +59,7 @@ Git | Git Hub.<br>
 ![Origamid](./img/origamid.svg)
       </td>
       <td>
-        <b>Origamid</b><br>
+        <br>
         Curso de Front End.
       </td>
       <td>
@@ -71,7 +71,7 @@ Git | Git Hub.<br>
 ![Origamid](./img/Dio.svg)
       </td>
       <td>
-        <b>Dio.</b><br>
+        <br>
         Curso de Git e Git Hub.
       </td>
       <td>
