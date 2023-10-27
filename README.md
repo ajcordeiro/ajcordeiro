@@ -1,19 +1,20 @@
 ![Jaqueson Alves](./img/Banner.png)
 # <b>[Jaqueson Alves](linkedin.com/in/ajcordeiro)</b> 
-<b> Desenvolvedor Back End JR </b>
+<b> Desenvolvedor Back End JR </b><br><br>
 
-### Back End - Conhecimentos:<br>
+## <b>Back End - Conhecimentos:</b>
  ![CSharp](./img/CSharp.svg) ![MySql](./img/MySql.svg) ![VStudio](./img/VStudio.svg)<br> 
 
-### Front End - Conhecimentos:<br>
-JavaScript | Html 5 | Css 3 | Bootstrap 5.<br>
-IDE:
-VSCode. <br>
+## <b>Front End - Conhecimentos:</b>
+ ![HTML](./img/html.svg) &nbsp;
+ ![CSS](./img/css.svg) &nbsp;
+ ![JS](./img/jscript.svg) &nbsp;
+ ![Bootstrap](./img/bootstrap.svg) &nbsp;
+ ![VSCode](./img/vscode.svg) &nbsp;  
 
-### Vercionamento - Conhecimentos:<br>
-Git | Git Hub.<br>
-
-<br>
+## <b>Vercionamento - Conhecimentos:</b>
+ ![Git](./img/git.svg) &nbsp;
+ ![GitHub](./img/Github.svg) &nbsp;
 
 ## <b>Cursos</b>
 <table>
@@ -80,31 +81,8 @@ Git | Git Hub.<br>
 </table>
 <br>
 
-## <b>Conhecimentos</b>:
-<div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
-
-  ![HTML](./img/html.svg) &nbsp;
-  ![CSS](./img/css.svg) &nbsp;
-  ![JS](./img/jscript.svg) &nbsp;
-  ![Bootstrap](./img/bootstrap.svg) &nbsp;
-  ![Git](./img/git.svg) &nbsp;
-  ![GitHub](./img/Github.svg) &nbsp;
-  ![VSCode](./img/vscode.svg) &nbsp;  
-  ![VStudio](./img/VStudio.svg) &nbsp;
-  ![MySql](./img/MySql.svg) &nbsp;
-</div>
-<br>
-
-## <b>Estudando:</b>
-<div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
-  
-  ![CSharp](./img/CSharp.svg) &nbsp; 
-
-</div>
-<br>
-
 ## <b>Interesse: </b>
-<div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
+<div style="display: inline_block; text-decoration: none; margin-bottom: 30px">
 
   ![NodeJS](./img/nodejs.svg) &nbsp;
   ![ReactJS](./img/reactjs.svg) &nbsp;
@@ -119,9 +97,6 @@ Git | Git Hub.<br>
 
 ## <b>Contato</b>
 <div>
-
-  <a href="https://web.whatsapp.com/send?phone=+5511954358681&text=Olá%20como%20%20posso%20ajudar?%20" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-(11)95435--8681-%33920f/?style=for-the-badge&logo=whatsapp&logoColor=success"></a> &nbsp;
-
   <a href="mailto: jaquesonalves@hotmail.com"><img src="https://img.shields.io/badge/Email-jaquesonalves@hotmail.com-lightgrey?style=for-the-badge&logo=Gmail&logoColor=white"></a> &nbsp;
   
   <a href="https://www.linkedin.com/in/ajcordeiro/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-ajcordeiro-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a> &nbsp;
