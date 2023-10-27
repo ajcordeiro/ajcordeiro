@@ -3,9 +3,7 @@
 <b> Desenvolvedor Back End JR </b>
 
 ### Back End - Conhecimentos:<br>
-C# | SQL | MySql.<br> 
-IDE:
-VStudio.<br>
+ ![CSharp](./img/CSharp.svg) ![MySql](./img/MySql.svg) ![VStudio](./img/VStudio.svg)<br> 
 
 ### Front End - Conhecimentos:<br>
 JavaScript | Html 5 | Css 3 | Bootstrap 5.<br>
@@ -102,8 +100,6 @@ Git | Git Hub.<br>
   
   ![CSharp](./img/CSharp.svg) &nbsp; 
 
-  
-  
 </div>
 <br>
 
