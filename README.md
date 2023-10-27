@@ -86,6 +86,7 @@
 
   ![NodeJS](./img/nodejs.svg) &nbsp;
   ![ReactJS](./img/reactjs.svg) &nbsp;
+  ![Angular](./img/angular.svg) &nbsp;
   ![VueJS](./img/vuejs.svg) &nbsp;
   ![TS](./img/ts.svg) &nbsp;
   ![Docker](./img/docker.svg) &nbsp;
