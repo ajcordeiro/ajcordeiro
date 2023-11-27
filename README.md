@@ -1,18 +1,20 @@
 ![Jaqueson Alves](./img/Banner.png)
 # <b>[Jaqueson Alves](linkedin.com/in/ajcordeiro)</b> 
-<b> Desenvolvedor Back End JR </b><br><br>
+### Desenvolvedor Back End JR <br><br>
 
-## <b>Back End - Conhecimentos:</b>
+## <b>Conhecimentos
+
+### <b>Back End:</b>
  ![CSharp](./img/CSharp.svg) ![MySql](./img/MySql.svg) ![VStudio](./img/VStudio.svg)<br> 
 
-## <b>Front End - Conhecimentos:</b>
+### <b>Front End:</b>
  ![HTML](./img/html.svg) &nbsp;
  ![CSS](./img/css.svg) &nbsp;
  ![JS](./img/jscript.svg) &nbsp;
  ![Bootstrap](./img/bootstrap.svg) &nbsp;
  ![VSCode](./img/vscode.svg) &nbsp;  
 
-## <b>Vercionamento - Conhecimentos:</b>
+### <b>Vercionamento:</b>
  ![Git](./img/git.svg) &nbsp;
  ![GitHub](./img/Github.svg) &nbsp;
 
@@ -81,7 +83,7 @@
 </table>
 <br>
 
-## <b>Interesse: </b>
+## <b>Interesses: </b>
 <div style="display: inline_block; text-decoration: none; margin-bottom: 30px">
 
   ![NodeJS](./img/nodejs.svg) &nbsp;
