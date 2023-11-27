@@ -1,24 +1,26 @@
 ![Jaqueson Alves](./img/Banner.png)
 # <b>[Jaqueson Alves](linkedin.com/in/ajcordeiro)</b> 
 ### Desenvolvedor Back End JR <br><br>
+## Sobre
+Com uma sólida trajetória de 17 anos de experiência na área da Tecnologia da Informação, destaco-me na manutenção de desktops, laptops, infraestrutura e redes de comunicação, com foco em serviços on-site. Em 2022 migrei para a área de desenvolvimento de sistemas, onde mantenho-me atualizado com cursos online. 
 
-## <b>Conhecimentos
+## Conhecimentos
 
-### <b>Back End:</b>
+### Back End:
  ![CSharp](./img/CSharp.svg) ![MySql](./img/MySql.svg) ![VStudio](./img/VStudio.svg)<br> 
 
-### <b>Front End:</b>
+### Front End:
  ![HTML](./img/html.svg) &nbsp;
  ![CSS](./img/css.svg) &nbsp;
  ![JS](./img/jscript.svg) &nbsp;
  ![Bootstrap](./img/bootstrap.svg) &nbsp;
  ![VSCode](./img/vscode.svg) &nbsp;  
 
-### <b>Vercionamento:</b>
+### Vercionamento:
  ![Git](./img/git.svg) &nbsp;
  ![GitHub](./img/Github.svg) &nbsp;
 
-## <b>Cursos</b>
+## Cursos
 <table>
   <thead>
     <tr>
@@ -83,7 +85,7 @@
 </table>
 <br>
 
-## <b>Interesses: </b>
+## Interesses:
 <div style="display: inline_block; text-decoration: none; margin-bottom: 30px">
 
   ![NodeJS](./img/nodejs.svg) &nbsp;
@@ -97,7 +99,7 @@
 </div>
 <br>
 
-## <b>Contato</b>
+## Contato
 <div>
   <a href="mailto: jaquesonalves@hotmail.com"><img src="https://img.shields.io/badge/Email-jaquesonalves@hotmail.com-lightgrey?style=for-the-badge&logo=Gmail&logoColor=white"></a> &nbsp;
   
