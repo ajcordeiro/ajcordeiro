@@ -1,4 +1,3 @@
-![Jaqueson Alves]
 # <b>[Jaqueson Alves](linkedin.com/in/ajcordeiro)</b> 
 ### Desenvolvedor Back End JR <br><br>
 ## Sobre
