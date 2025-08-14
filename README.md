@@ -1,4 +1,3 @@
-# <b>[Jaqueson Alves](linkedin.com/in/ajcordeiro)</b> 
 ### Desenvolvedor Back End JR <br><br>
 ## Sobre
 Com uma sólida trajetória de 20 anos de experiência na área da Tecnologia da Informação, destaco-me na manutenção de desktops, laptops, infraestrutura e redes de comunicação, com foco em serviços on-site. Em 2022 migrei para a área de desenvolvimento de sistemas, onde mantenho-me atualizado com cursos online. 
